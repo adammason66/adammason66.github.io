@@ -1,0 +1,32 @@
+
+
+
+
+body {
+  background-color: #4F7F10;
+width: 800px
+margin: auto;
+}
+
+header {
+color: #black;
+border: 2px;
+border-color: black;
+background-color: #70CC1A;
+text-align: center;
+font-family: sans-serif;
+font-size: 20px;
+display: block;
+margin-left: auto;
+margin-right: auto;
+
+img {
+margin: auto;
+}
+
+}
+
+nav {
+background-color: #4F7F10;
+font-family: sans-serif;
+}
